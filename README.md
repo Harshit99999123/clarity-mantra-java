@@ -221,5 +221,3 @@ Verified:
 - stream message
 - generate/get insight card
 - feedback submission
-
-Google login backend validation is implemented, but a successful live verification requires a real Google-issued ID token from the frontend flow.
